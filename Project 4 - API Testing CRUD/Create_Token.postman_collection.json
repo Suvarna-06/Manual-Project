@@ -1,0 +1,46 @@
+{
+	"info": {
+		"_postman_id": "79865817-03ec-490a-8daf-938ab1218dad",
+		"name": "Create_Token",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "42744159",
+		"_collection_link": "https://expanding-6604.postman.co/workspace/adf595eb-8715-4aa9-81bb-50ddde2eb987/collection/42744159-79865817-03ec-490a-8daf-938ab1218dad?action=share&source=collection_link&creator=42744159"
+	},
+	"item": [
+		{
+			"name": "Auth - Create_Token",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"username\" : \"admin\",\r\n    \"password\" : \"password123\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://restful-booker.herokuapp.com/auth",
+					"protocol": "https",
+					"host": [
+						"restful-booker",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"auth"
+					]
+				},
+				"description": "Generated from cURL: curl -X POST \\\r\n  https://restful-booker.herokuapp.com/auth \\\r\n  -H 'Content-Type: application/json' \\\r\n  -d '{\r\n    \"username\" : \"admin\",\r\n    \"password\" : \"password123\"\r\n}'"
+			},
+			"response": []
+		}
+	]
+}
