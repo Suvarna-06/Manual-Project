@@ -1,6 +1,6 @@
 # 🚀 API Testing Projects & Documentation
 
-![API Testing](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*dBdH1zqQ68uZkwllsKO3Mg.png)
+
 
 ## 🌟 Overview
 This repository showcases my expertise in API testing using Postman, including structured test plans, test cases, and Newman HTML reports. It demonstrates my ability to validate API functionality, automate test execution, and document processes effectively.
