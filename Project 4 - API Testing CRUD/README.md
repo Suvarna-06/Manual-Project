@@ -24,7 +24,9 @@ In addition to API testing, I have documented my testing process using structure
 📌 **Postman Collections** – Automated API testing workflows using scripts.
 📌 **Newman Reports** – Generated execution reports for test runs.
 
-![Newman Report]<img width="521" alt="image" src="https://github.com/user-attachments/assets/a4dd12bf-1793-4e2b-adee-9cbfef62dc9f" />
+Newman Report
+
+<img width="521" alt="image" src="https://github.com/user-attachments/assets/a4dd12bf-1793-4e2b-adee-9cbfef62dc9f" />
 
 
 ## 🛠️ Tools & Technologies
