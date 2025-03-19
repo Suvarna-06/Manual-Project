@@ -33,8 +33,11 @@ In addition to API testing, I have documented my testing process using structure
 - 📜 **Swagger** for API documentation analysis
 
 ## 🔮 Future Enhancements
+
 🔹 Integrate API testing with CI/CD pipelines for continuous validation.
+
 🔹 Expand test coverage for authentication, security, and error handling.
+
 🔹 Implement performance testing for API scalability.
 
 💡 **Want to see my work in action? Explore the repository for detailed test plans, cases, and reports!** 🚀
